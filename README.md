@@ -1,2 +1,1 @@
-# AI-internship-project-chatbot
-AI-internship-project-chatbot-as summer internship project 
+# AI-Internship-Project--Chatboat
